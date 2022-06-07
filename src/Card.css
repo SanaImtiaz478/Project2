@@ -1,0 +1,11 @@
+.Card{
+    display: 'flex';
+    width: '100%';
+    height:'100vh';
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 50rem;
+    margin-right: 50rem;
+    background-color: black;
+}
